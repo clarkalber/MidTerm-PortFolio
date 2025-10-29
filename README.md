@@ -80,7 +80,9 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif" width="500" alt="Badminton – BWF action GIF"/>
+  <img src="https://media.giphy.com/media/kprByMkudw8s8/giphy.gif" 
+       width="500" 
+       alt="One Piece Friendship – Luffy GIF"/>
 </p>
 
 🏴‍☠️ *Every project is another island in my journey — a chance to learn, explore, and expand my treasure of skills.*  
