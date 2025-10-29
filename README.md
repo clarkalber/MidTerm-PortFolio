@@ -38,7 +38,10 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <!-- Project 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://drive.google.com/file/d/1sgfBWWpkOuK49W4s0cDS6_wPBCkn_pKn/view?usp=drivesdk" target="_blank">
-    <iframe src="https://giphy.com/embed/YRThiAEEYVNtC5acLO" width="320" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif" 
+         width="320" 
+         alt="One Piece Luffy Gear 5 GIF" 
+         style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 140, 0, 0.6);" />
     <br><b>Project 1</b>
   </a>
 </div>
@@ -46,10 +49,10 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <!-- Project 2 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://drive.google.com/file/d/1l0crNYxACouo3gvhsblNfZtuqFYpGOJg/view?usp=drivesdk" target="_blank">
-    <iframe src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"
-         width="320"
-         alt="One Piece Zoro Sword GIF"
-         style="border-radius:15px; box-shadow:0 4px 12px rgba(0, 255, 200, 0.6);">
+    <img src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" 
+         width="320" 
+         alt="One Piece Zoro Sword GIF" 
+         style="border-radius:15px; box-shadow:0 4px 12px rgba(0, 255, 200, 0.6);" />
     <br><b>Project 2</b>
   </a>
 </div>
@@ -57,7 +60,7 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <!-- Project 3 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
-    <iframe src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif" 
+    <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif" 
          width="320" 
          alt="One Piece GIF for Project 3" 
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);" />
