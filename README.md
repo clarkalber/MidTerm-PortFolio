@@ -36,13 +36,13 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <p align="center">
 
 
-<!-- Lab Task 3 -->
+<!-- Lab Task 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 3</p>
   <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
     <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif"
          width="320"
-         alt="One Piece GIF for Project 3"
+         alt="One Piece GIF for Project 1"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
   </a>
 </div>
