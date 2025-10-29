@@ -36,14 +36,14 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <p align="center">
 
 
-<!-- Lab Task 1 -->
+<!-- Lab Task 3 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
-  <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 1</p>
-  <a href="https://drive.google.com/file/d/1sgfBWWpkOuK49W4s0cDS6_wPBCkn_pKn/view?usp=drivesdk" target="_blank">
-    <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif"
+  <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 3</p>
+  <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
+    <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif"
          width="320"
-         alt="One Piece Luffy Gear 5 GIF"
-         style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 140, 0, 0.6);">
+         alt="One Piece GIF for Project 3"
+         style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
   </a>
 </div>
 
@@ -62,9 +62,9 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 3</p>
   <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
-    <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif"
+    <img src="https://media.giphy.com/media/RuRd67S6IfDEI/giphy.gif"
          width="320"
-         alt="One Piece GIF for Project 3"
+         alt="One Piece Sanji Diable Jambe GIF"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
   </a>
 </div>
