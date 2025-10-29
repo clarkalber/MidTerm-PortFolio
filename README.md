@@ -10,19 +10,7 @@
   <img src="clarkkent.png" width="70" style="border-radius:50%; vertical-align:middle; margin-left:10px;" />
 </h1>
 
-<table>
-  <tr>
-    <td style="vertical-align: middle;">
-      I’m currently pursuing <b>Associate in Computer Technology (ACT)</b> at <i>City College of Angeles</i>.
-    </td>
-    <td style="padding-left: 15px;">
-      <img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064809485790"
-           width="80"
-           alt="City College of Angeles Logo"
-           style="border-radius:10px;">
-    </td>
-  </tr>
-</table>
+I’m currently pursuing **Associate in Computer Technology (ACT)** at *City College of Angeles*.
 
 My studies give me a solid foundation in **computer systems**, **programming**, and **IT problem-solving**.
 
