@@ -38,8 +38,8 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 
 <!-- Lab Task 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
+  <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 1</p>
   <a href="https://drive.google.com/file/d/1sgfBWWpkOuK49W4s0cDS6_wPBCkn_pKn/view?usp=drivesdk" target="_blank">
-    <b style="display:block; font-size:18px; margin-bottom:8px;">Lab Task 1</b>
     <img src="https://media.giphy.com/media/YRThiAEEYVNtC5acLO/giphy.gif"
          width="320"
          alt="One Piece Luffy Gear 5 GIF"
@@ -49,8 +49,8 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 
 <!-- Lab Task 2 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
+  <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 2</p>
   <a href="https://drive.google.com/file/d/1l0crNYxACouo3gvhsblNfZtuqFYpGOJg/view?usp=drivesdk" target="_blank">
-    <b style="display:block; font-size:18px; margin-bottom:8px;">Lab Task 2</b>
     <img src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif"
          width="320"
          alt="One Piece Zoro Sword GIF"
@@ -60,14 +60,15 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 
 <!-- Lab Task 3 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
+  <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 3</p>
   <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
-    <b style="display:block; font-size:18px; margin-bottom:8px;">Lab Task 3</b>
     <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif"
          width="320"
          alt="One Piece GIF for Project 3"
          style="border-radius:15px; box-shadow:0 4px 12px rgba(255, 69, 0, 0.6);">
   </a>
 </div>
+
 </p>
 
 ---
