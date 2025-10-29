@@ -39,7 +39,7 @@ My studies give me a solid foundation in **computer systems**, **programming**, 
 <!-- Lab Task 1 -->
 <div style="display:inline-block; text-align:center; margin:10px;">
   <p style="font-size:18px; font-weight:bold; margin-bottom:8px;">Lab Task 1</p>
-  <a href="https://drive.google.com/file/d/1yCFZukKCL6AUPMKuLfrzBFaRyLrVHDXY/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1sgfBWWpkOuK49W4s0cDS6_wPBCkn_pKn/view?usp=drivesdk" target="_blank">
     <img src="https://media.giphy.com/media/cpkQpkVFOOoNi/giphy.gif"
          width="320"
          alt="One Piece GIF for Project 1"
